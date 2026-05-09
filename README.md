@@ -183,7 +183,7 @@ Currently, I am working on improving data quality for large language models whil
 
 ## 💡 Philosophy
 
-> "Great AI systems are not built only with models — they are built with reliable data, scalable workflows, and continuous learning."
+> "Great AI systems are not built only with models, they are built with reliable data, scalable workflows, and continuous learning."
 
 ---
 
