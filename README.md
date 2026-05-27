@@ -133,9 +133,9 @@ Currently, I am working on improving data quality for large language models whil
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-beta-lime-46.vercel.app/api?username=JPehaDev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/JPehaDev)
+[![Stats](https://github-readme-stats-beta-lime-46.vercel.app/api?username=JPehaDev&show_icons=true&theme=tokyonight&count_private=true&v=1)](https://github.com/JPehaDev)
 
-[![Top Langs](https://github-readme-stats-beta-lime-46.vercel.app/api/top-langs/?username=JPehaDev&layout=compact&theme=tokyonight)](https://github.com/JPehaDev)
+[![Top Langs](https://github-readme-stats-beta-lime-46.vercel.app/api/top-langs/?username=JPehaDev&layout=compact&theme=tokyonight&v=1)](https://github.com/JPehaDev)
 
 </div>
 
@@ -151,7 +151,7 @@ Currently, I am working on improving data quality for large language models whil
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JPehaDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+[![Trophies](https://github-profile-trophy-weld.vercel.app/?username=JPehaDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&v=300)](https://github.com/JPehaDev)
 
 </div>
 
