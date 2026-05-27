@@ -147,11 +147,11 @@ Currently, I am working on improving data quality for large language models whil
 
 ---
 
-## 🏅 GitHub Trophies & Achievements
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-navigator.vercel.app/api/achievements?username=JPehaDev&theme=tokyonight" alt="GitHub Achievements" />
+<img src="https://trophy.benkou.dev/?username=JPehaDev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
